@@ -128,7 +128,6 @@ function desencriptacion() {
 function copiar() {
     var texto = document.getElementById("textoVacio").innerHTML;
     navigator.clipboard.writeText(texto);
-    alert("texto copiado");
 }
 
 var btnEncriptar = document.getElementById("encriptar");
