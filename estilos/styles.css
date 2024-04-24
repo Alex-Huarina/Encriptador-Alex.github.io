@@ -142,7 +142,7 @@ button:active{
     text-align: center;
     height: 460px;
     border: 1px solid white;
-    margin: 10% 0% 0% 10%;
+    margin: 5% 0% 0% 10%;
 }
 #textoVacio{
     display: inline-block;
